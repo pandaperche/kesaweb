@@ -12,6 +12,6 @@ Ce site est construit à partir de la branche principale `main` de son répertoi
 
 [Github]: https://github.com/pandaperche/think-web-usage
 
-## v0.0.1
+## v0.0.1-alpha
 
 Création du site, vide oui mais créé.
