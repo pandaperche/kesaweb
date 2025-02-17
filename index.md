@@ -37,4 +37,4 @@ Il se veut évolutif et communautaire, n'hésitez pas à partager vos idées / r
 
 
 ### T'es qui au juste ?
-Je suis juste Matthieu. Ce sont des sujets qui m'intéressent et m'animent. Le numérique, la pédagogie, l'ouverture et le partage. Tout comme un couteau, on apprend tôt qu'il peut être dangereux utilisé à mauvais escient. Je suis convaincu que c'est la même chose pour le numérique.
+Je suis juste Matthieu. Citoyen lambda. Ce sont des sujets qui m'intéressent et m'animent. Le numérique, la pédagogie, l'ouverture et le partage. Tout comme un couteau, on apprend tôt qu'il peut être dangereux utilisé à mauvais escient. Je suis convaincu que c'est la même chose pour le numérique.
