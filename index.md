@@ -6,11 +6,14 @@ layout: home
 C'est en discutant avec des ami·es que je me suis rendu compte qu'on utilisait tous les jours un outil (le web) sans savoir réellement ce qui se cache derrière. Ne serait-ce que pour définir deux principes de base que sont :
 - un navigateur
 - un moteur de recherche
+
 Je vous laisse à cet exercice.
 
 
 ### Nous n'avons pas les bases
+
 Parce qu'on nous a laissé penser qu'internet était un monde opaque dont la compréhension n'était accessible qu'aux plus geeks d'entre nous, c'est avec ce site que je propose justement qu'on revoit ensemble nos bases.
+
 Revoir nos bases :
 - pour se rendre compte que ce n'est pas si compliqué à comprendre
 - pour faire des choix éclairés dans l'utilisation des outils du web
@@ -19,6 +22,7 @@ Revoir nos bases :
 
 
 ### Pas moralisateur
+
 L'idée n'est pas de faire la morale mais simplement de donner accès à des informations concrètes et simples sur l'utilisation quotidienne que l'on fait du web.
 
 Depuis notre portable, notre ordinateur. Depuis notre vie personelle, notre vie professionnelle, notre vie associative.
@@ -29,7 +33,7 @@ Ce site existe dans une démarche d'éducation populaire au numérique, démarch
 ### Un site web de plus...
 C'était la manière la plus simple pour moi de faire vivre mes notes dans une logique de partage des connaissances en m'appuyant sur des solutions ouvertes.
 
-Il se veut évolutif et communautaire, n'hésitez pas à partager vos idées / remarques afin de l'améliorer ensemble !
+Il se veut évolutif et communautaire, n'hésitez pas à partager vos idées / remarques afin de l'améliorer ensemble ! Ça se passe sur [ce formulaire.](https://framaforms.org/remarques-idees-1739812850)
 
 
 ### T'es qui au juste ?
