@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Repenser ses usages web
-description: Archiver et partager des réflexions / sources / ressources personnelles sur l'usage du numérique.
+description: "Archiver et partager des réflexions / sources / ressources personnelles sur l'usage du numérique."
 theme: just-the-docs
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://github.com/pandaperche/think-web-usage # the base hostname & protocol for your site, e.g. http://example.com
