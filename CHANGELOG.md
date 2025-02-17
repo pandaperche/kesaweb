@@ -5,7 +5,7 @@ layout: default
 
 # VERSIONS
 
-Les changements notables seront archivées sur cette page.
+Les changements notables seront archivés sur cette page.
 
 {: .note }
 Ce site est construit à partir de la branche principale `main` de son répertoire [Github].
