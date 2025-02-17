@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Repenser ses usages web
+description: Archiver et partager des réflexions / sources / ressources personnelles sur l'usage du numérique.
 theme: just-the-docs
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://github.com/pandaperche/think-web-usage # the base hostname & protocol for your site, e.g. http://example.com
@@ -78,9 +78,9 @@ aux_links:
   Voir sur Github: https://github.com/pandaperche/think-web-usage
 
 # External navigation links
-nav_external_links:
-  - title: Voir sur Github
-    url: https://github.com/pandaperche/think-web-usage
+# nav_external_links:
+  # - title: Voir sur Github
+    # url: https://github.com/pandaperche/think-web-usage
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
