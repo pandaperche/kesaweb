@@ -1,7 +1,9 @@
 ---
 title: Accueil
 layout: home
+last_modified_date: 2025-02-18
 ---
+
 # Repenser ses usages numériques pour les changer et les décentraliser
 C'est en discutant avec des ami·es que je me suis rendu compte qu'on utilisait tous les jours le web sans savoir réellement et simplement ce qui se cache derrière. Ne serait-ce que pour définir deux outils de base que sont :
 - un navigateur
@@ -37,6 +39,6 @@ Il se veut évolutif et communautaire, n'hésite pas à partager tes idées / re
 
 ---
 ### Qui est derrière ?
-Pour l'instant juste moi, pandaperche (Matthieu C.), et les discussions avec mon entourage. Citoyen lambda. Ce sont des sujets qui m'intéressent et m'animent. Le numérique, la vulgarisation, l'ouverture et le partage.
+Pour l'instant juste moi, Matthieu C. (pandaperche), et les discussions avec mon entourage. Ce sont des sujets qui m'intéressent et m'animent. Le numérique, la vulgarisation, l'ouverture et le partage.
 
-Tout comme une hache, on apprend tôt qu'elle peut être dangereuse si on l'utilise à mauvais escient. À mon sens, cela s'applique également au numérique. Et on a oublié de nous l'apprendre.
+Tout comme une hache, on apprend tôt qu'elle peut être dangereuse si on ne sait pas l'utiliser. À mon sens, cela s'applique également au numérique. Et on a oublié de nous l'apprendre.
