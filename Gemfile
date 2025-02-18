@@ -15,5 +15,6 @@ gem "jekyll-sitemap", group: :jekyll_plugins
 gem "jekyll-seo-tag", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
 gem "rake", ">= 12.3.1", group: :jekyll_plugins
+gem "jemoji", group: :jekyll_plugins
 
 gem "html-proofer", "~> 5.0", :group => :development

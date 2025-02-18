@@ -1,0 +1,139 @@
+{
+  "$schema": "https://beta.frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        }
+      ]
+    },
+    {
+      "name": "parent",
+      "pageBundle": true,
+      "allowAsSubContent": false,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Layout",
+          "name": "layout",
+          "type": "choice",
+          "choices": ["default"]
+        },
+        {
+          "title": "Is published",
+          "name": "published",
+          "type": "draft"
+        },
+        {
+          "title": "Last modified date",
+          "name": "last_modified_date",
+          "type": "datetime",
+          "isModifiedDate": true
+        },
+        {
+          "title": "fmContentType",
+          "name": "fmContentType",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "child-bases",
+      "pageBundle": true,
+      "allowAsSubContent": true,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Layout",
+          "name": "layout",
+          "type": "choice",
+          "choices": ["default"]
+        },
+        {
+          "title": "Parent",
+          "name": "parent",
+          "type": "string"
+        },
+        {
+          "title": "Nav",
+          "name": "nav_order",
+          "type": "number"
+        },
+        {
+          "title": "Is published",
+          "name": "published",
+          "type": "draft"
+        },
+        {
+          "title": "Last modified date",
+          "name": "last_modified_date",
+          "type": "datetime",
+          "isModifiedDate": true
+        },
+        {
+          "title": "fmContentType",
+          "name": "fmContentType",
+          "type": "string"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "jekyll",
+  "frontMatter.content.publicFolder": "assets",
+  "frontMatter.preview.host": "http://localhost:4000",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "bases",
+      "path": "[[workspace]]/docs/bases",
+      "previewPath": "/docs/bases",
+      "filePrefix": null
+    }
+  ],
+  "frontMatter.git.enabled": false,
+  "frontMatter.website.host": "https://pandaperche.github.io/think-web-usage"
+}
