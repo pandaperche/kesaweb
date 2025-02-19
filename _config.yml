@@ -108,7 +108,7 @@ liquid:
 # appears at the bottom of every page's main content
 # Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust
 # markup / liquid-based content.
-footer_content: "Copyright &copy; 2025 pandaperche/think-web-usage. Distribué par une <a href=\"https://github.com/pandaperche/think-web-usage/tree/main/LICENSE.txt\">licence MIT.</a> Propulsé par <a href=\"https://docs.github.com/fr/pages\">Github Pages.</a><br>Pas de cookies, pas de tracking, simplement <a href=\"https://framaforms.org/remarques-idees-1739812850\">des commentaires</a> qui sont les bienvenus :)"
+footer_content: "Copyright &copy; 2025 pandaperche/think-web-usage. Le contenu du site est sous licence <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0.</a> Propulsé par <a href=\"https://docs.github.com/fr/pages\">Github Pages.</a><br>Pas de cookies, pas de tracking, simplement <a href=\"https://framaforms.org/remarques-idees-1739812850\">des commentaires</a> qui sont les bienvenus :)"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
