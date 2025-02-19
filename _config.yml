@@ -69,6 +69,9 @@ search:
   # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
   focus_shortcut_key: 'k'
 
+# Enable or disable back to top button
+back_to_top: true
+back_to_top_text: "Haut de page"
 
 # Enable or disable heading anchors
 heading_anchors: true
