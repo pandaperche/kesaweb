@@ -61,6 +61,11 @@
           "choices": ["default"]
         },
         {
+          "title": "Nav",
+          "name": "nav_order",
+          "type": "number"
+        },
+        {
           "title": "Is published",
           "name": "published",
           "type": "draft"

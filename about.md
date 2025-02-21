@@ -1,8 +1,7 @@
 ---
-title: Accueil
-layout: home
-nav_order: 1
-last_modified_date: 2025-02-18
+title: À propos
+layout: default
+nav_order: 998
 ---
 
 # Repenser ses usages numériques pour les changer et les décentraliser
@@ -43,3 +42,4 @@ Il se veut évolutif et communautaire, n'hésite pas à partager tes idées / re
 Pour l'instant simplement Matthieu C. (pandaperche), et les discussions avec mon entourage. Ce sont des sujets qui m'intéressent et m'animent. Le numérique, la vulgarisation, l'ouverture et le partage.
 
 Tout comme une hache, on apprend tôt qu'elle peut être dangereuse si on ne sait pas l'utiliser. À mon sens, cela s'applique également au numérique. Et on a oublié de nous l'apprendre.
+
