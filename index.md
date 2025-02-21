@@ -5,41 +5,97 @@ nav_order: 1
 last_modified_date: 2025-02-18
 ---
 
-# Repenser ses usages numériques pour les changer et les décentraliser
-C'est en discutant avec des ami·es que je me suis rendu compte qu'on utilisait tous les jours le web sans savoir réellement et simplement ce qui se cache derrière. Ne serait-ce que pour définir deux outils de base que sont :
-- un navigateur
-- un moteur de recherche
+# Quèsaweb 
+{: .fs-9 }
 
-Je te laisse à cet exercice puis on passe à la suite.
+**Quèsaquo[^1] le web ? 👀** 
+{: .text-delta }
+Exercice d'expression collective et d'éducation populaire au numérique[^2] pour devenir acteurs critiques de nos pratiques quotidiennes.
+{: .fs-6 .fw-300 }
 
-
-## Vous n'avez pas les bases
-
-*Pour la réf à ce bon vieux Orelsan*. Parce qu'on nous a laissé penser qu'internet est un monde opaque dont la compréhension n'est accessible qu'aux plus geeks d'entre nous, c'est avec ce site que je propose justement que l'on revoit ensemble nos bases.
-
-Revoir nos bases :
-- pour se rendre compte que ce n'est pas si compliqué à comprendre
-- pour faire des choix plus éclairés dans l'utilisation des outils du web
-- pour créer un espace d'échange inclusif et accessible sur ces sujets
-- pour ouvrir la réflexion sur nos usages et leur impact réel
-
-
-## Pas moralisateur
-
-L'idée n'est pas de donner des leçons mais simplement de donner accès à des informations concrètes et simples sur notre utilisation quotidienne du web.
-
-Depuis notre portable, notre ordinateur. Dans notre vie personelle, notre vie associative, notre vie professionnelle.
-
-Ce site existe dans une démarche d'éducation populaire au numérique.
-
-
-## Un site web de plus...
-C'était la manière la plus simple pour moi de faire vivre mes notes dans une logique de partage de connaissances en m'appuyant sur des solutions ouvertes.
-
-Il se veut évolutif et communautaire, n'hésite pas à partager tes idées / remarques afin de l'améliorer ensemble ! Ça se passe sur [ce formulaire.](https://framaforms.org/remarques-idees-1739812850)
+{: .note-title }
+> Avant-propos
+> 
+> Ce site n'est pas fait pour toi si tu n'as pas envie de te poser des questions sur nos usages quotidiens du web.
+>
+> Ce site est fait pour toi si tu **veux prendre ce temps**.
 
 ---
-### Qui est derrière ?
-Pour l'instant simplement Matthieu C. (pandaperche), et les discussions avec mon entourage. Ce sont des sujets qui m'intéressent et m'animent. Le numérique, la vulgarisation, l'ouverture et le partage.
 
-Tout comme une hache, on apprend tôt qu'elle peut être dangereuse si on ne sait pas l'utiliser. À mon sens, cela s'applique également au numérique. Et on a oublié de nous l'apprendre.
+## > Une ressourcerie numérique
+
+L'existence de cette ressourcerie part de la volonté de **revenir aux fondamentaux de la culture web et de les rendre accessibles au plus grand nombre.** 
+
+Quels sont ces fondamentaux ? **On ne nous l'a jamais appris.** Car la technologie a très rapidement été accaparée par « "l’ordre social en place" (entreprises, gouvernements et surtout investisseurs…) »[^3]. Un monde qui a volontairement été rendu opaque et innacessible au *commun des mortels*.
+
+**Parce que c'est bon pour les affaires 🤑🤑🤑**
+
+{: .important-title }
+> 📑 Les fondamentaux de la culture web
+> 
+> - Le partage
+> - L'échange
+> - La co-construction
+
+Pour aller vers **un usage citoyen du web**, il est important de repartir des bases afin que chacun·es aient les outils pour **passer d'une consommation passive de produits technologiques à une consommation active et consciente.**
+
+L'idée est d'essayer de combler un manque d'éducation de la part des institutions vis-à-vis de ces sujets qui se sont développés à vitesse grand V ces dernières décennies.
+
+> **Avec des termes simples, sans volonté de former des expert·es mais bien des citoyen·nes alertes faces à ces enjeux contemporains, sociaux et politiques.**
+
+---
+
+
+## > C'est parti ?
+
+Tu peux te balader dans la ressourcerie comme bon te semble et / ou en fonction de ton niveau d'aisance.
+
+### On peut aussi essayer de te guider
+
+Le parcours classique :
+1. [Revoir nos bases](/docs/bases) 
+2. ...
+3. ......
+
+Le reste est à venir au fur et à mesure des discussions. N'hésite pas à consulter les différentes manières de contribuer si tu veux participer au mouvement ***(aucuns prérequis)*** !
+
+Tu peux aller voir la page [À propos](/about) si tu veux en apprendre plus sur la genèse du projet.
+
+
+### Les prochaines idées de Quèsaweb
+
+Liste non exhaustive, au fil de l'eau
+{: .text-delta}
+
+- **Fiches "Un pas de côté" pour prendre du recul et s'approprier certains concepts** (exemples de sujets : décentralisation, solutions ouvertes versus propriétaires, sobriété, et d'autres !)
+- **Fiches "Technos-critiques" des outils numériques les plus populaires** (exemples : suite Google, réseaux Meta, X, etc.)
+- **Fiches "Alternatives à..." pour s'émanciper des solutions propriétaires** (basées sur des expériences personnelles)
+- **Nouvelles manières de contribuer** (sous réserve qu'il y ait des personnes volontaires)
+
+
+---
+
+### 🫂 Contributeurices
+
+[@pandaperche]
+
+#### Envie de contribuer à ta manière ?
+
+[👉 Tu peux cliquer juste ici pour découvrir comment 👈](/docs/contribute)
+
+---
+
+{::comment}🚧 ZONE DES RÉFÉRENCES 🚧{:/comment}
+
+[^1]: Quèsaco (adverbe interrogatif) : Qu'est-ce que c'est ? [Définition Larousse.](https://www.larousse.fr/dictionnaires/francais/qu%C3%A8saco/65649)
+[^2]: [Porte E., 2018, Éducation populaire à l’ère numérique, INJEP Notes & rapports/Rapport d’étude.](https://injep.fr/wp-content/uploads/2018/10/rapport-2018-12-educpop-numerique.pdf)
+[^3]: [Internet actu. (01/01/2016). *Vers des plateformes réellement coopératives.*](https://www.lemonde.fr/blog/internetactu/2016/01/01/plateformescooperatives/)
+
+
+{::comment}🚧 ZONE DES LIENS 🚧{:/comment}
+
+[Exemple]:  https://www.larousse.fr/dictionnaires/francais/Internet/187862
+
+{::comment}### 🫂 Contributeurices{:/comment}
+
+[@pandaperche]: https://linkstack.fr/@pandaperche
