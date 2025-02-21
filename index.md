@@ -5,11 +5,9 @@ nav_order: 1
 last_modified_date: 2025-02-18
 ---
 
-# Quèsaweb 
+# Quèsaquo[^1] le web ? 👀 
 {: .fs-9 }
 
-**Quèsaquo[^1] le web ? 👀** 
-{: .text-delta }
 Exercice d'expression collective et d'éducation populaire au numérique[^2] pour devenir acteurs critiques de nos pratiques quotidiennes.
 {: .fs-6 .fw-300 }
 
