@@ -5,6 +5,11 @@ nav_order: 1
 last_modified_date: 2025-02-18
 ---
 
+{: .warning-title }
+> 🚧 En cours de construction 🚧
+>
+> Sur le reste du site, les pages précédées d'une 🏗️ sont en cours de rédaction.
+
 # Quèsaquo[^1] le web ? 👀 
 {: .fs-9 }
 

@@ -1,10 +1,10 @@
 ---
-title: VERSIONS
+title: Versions
 layout: default
 nav_order: 999
 ---
 
-# VERSIONS
+# Versions
 
 Les changements notables seront archivés sur cette page.
 

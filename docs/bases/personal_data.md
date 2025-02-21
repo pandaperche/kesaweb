@@ -1,10 +1,10 @@
 ---
-title: Donnée personnelle
+title: 🏗️ Donnée personnelle
 layout: default
 parent: Revoir nos bases
 nav_order: 4
 published: true
-last_modified_date: 2025-02-18T15:01:16.836Z
+last_modified_date: 2025-02-21T15:03:17.339Z
 fmContentType: child-bases
 ---
 

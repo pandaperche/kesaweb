@@ -1,10 +1,10 @@
 ---
-title: Réseau social
+title: 🏗️ Réseau social
 layout: default
 parent: Revoir nos bases
 nav_order: 5
 published: true
-last_modified_date: 2025-02-18T15:02:40.357Z
+last_modified_date: 2025-02-21T15:03:23.508Z
 fmContentType: child-bases
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: Internet
+title: 🏗️ Internet
 layout: default
 parent: Revoir nos bases
 nav_order: 1
 published: true
-last_modified_date: 2025-02-19T17:34:21.541Z
+last_modified_date: 2025-02-21T15:04:26.555Z
 fmContentType: child-bases
 lastmod: 2025-02-19T17:41:53.068Z
 ---

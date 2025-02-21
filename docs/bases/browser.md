@@ -1,10 +1,10 @@
 ---
-title: Navigateur web
+title: 🏗️ Navigateur web
 layout: default
 parent: Revoir nos bases
 nav_order: 2
 published: true
-last_modified_date: 2025-02-18T14:37:15.843Z
+last_modified_date: 2025-02-21T15:04:31.835Z
 fmContentType: child-bases
 ---
 
